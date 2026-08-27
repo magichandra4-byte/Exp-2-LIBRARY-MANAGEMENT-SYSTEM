@@ -26,7 +26,7 @@ Save or maintain the updated records and terminate the Library Management System
 # DIAGRAMS:
 ## Usecase diagram:
 <img width="955" height="891" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/67a8bc47-ece8-41b7-a1e3-c6350c26f8bc" />
-## Class diagram:
+### Class diagram:
 <img width="1012" height="852" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/368e855d-d11d-47ff-b398-3b4f56062401" />
 ## Sequence diagram:
 <img width="1078" height="801" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/d4b67848-8dad-48bb-8d08-f454142cb165" />
