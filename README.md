@@ -26,16 +26,27 @@ Save or maintain the updated records and terminate the Library Management System
 # DIAGRAMS:
 ## Usecase diagram:
 <img width="955" height="891" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/67a8bc47-ece8-41b7-a1e3-c6350c26f8bc" />
-### Class diagram:
+
+
+## Class diagram:
 <img width="1012" height="852" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/368e855d-d11d-47ff-b398-3b4f56062401" />
+
+
 ## Sequence diagram:
 <img width="1078" height="801" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/d4b67848-8dad-48bb-8d08-f454142cb165" />
+
+
 ## Communication diagram:
 <img width="926" height="801" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/bfe50756-971d-42d5-b2a2-08f27cf9186b" />
+
+
 ## Package diagram:
 <img width="882" height="712" alt="PackageDiagram1" src="https://github.com/user-attachments/assets/9ac88f42-9a8c-4490-8f60-2222a1fddfde" />
+
+
 ## Activity diagram:
 <img width="682" height="903" alt="ActivityDiagram1" src="https://github.com/user-attachments/assets/3828b59d-5d52-46b7-8a3a-263ba08df1d5" />
+
 
 # RESULT:
 The software for Library Management System is developed successfully.
